@@ -3,7 +3,7 @@
 I'm a Go/Python dev, that does InfoSec and other hacking things for fun.
 
 ## 📊 GitHub Stats
-[![reneManqueros's github stats](https://github-readme-stats.vercel.app/api?username=reneManqueros&count_private=true&show_icons=true&hide_border=true&theme=dark)](https://github.com/reneManqueros)[![reneManqueros's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=reneManqueros&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact&count_private=true&langs_count=8&theme=dark&hide=ruby,html,css)](https://github.com/reneManqueros)
+[![reneManqueros's github stats](https://github-readme-stats.vercel.app/api?username=reneManqueros&count_private=true&show_icons=true&hide_border=true&theme=catppuccin_macchiato)](https://github.com/reneManqueros)[![reneManqueros's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=reneManqueros&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact&count_private=true&langs_count=8&theme=catppuccin_macchiato&hide=ruby,html,css)](https://github.com/reneManqueros)
 
 ## Projects
 - [Proxy manager in Go](https://github.com/reneManqueros/moxxiproxy)
